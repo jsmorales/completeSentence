@@ -1,0 +1,35 @@
+#completeSentence{
+	/*background-color: #f2f2f2;
+    border: 1px solid black;*/
+    padding-top: 10px;
+}
+.contSentence{
+	background-color: #f2f2f2;
+    border: 2px solid #9d9d9d;
+    margin-bottom: 10px;
+    padding: 10px;
+    /* border-radius: 5px; */
+}	
+.sentence{
+
+}
+.sentence_p{
+
+}
+.words{
+	background-color: #ddd;
+    border: 2px solid #777;	
+}
+.sentence_word{
+    cursor: pointer;
+    /* font-style: inherit; */
+    font-weight: bold;
+}
+
+.sentenceCorrect{
+	border: 2px solid green;
+}
+
+.sentenceIncorrect{
+	border: 2px solid red;
+}
